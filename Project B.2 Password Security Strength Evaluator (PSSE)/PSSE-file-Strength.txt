@@ -1,0 +1,12 @@
+First topic : The importance of password strength :-
+
+The strength of the password helps in securing accounts/devices it's set for , if the password is weak or easy to guess it , others may guess it and gain access to your account/device and access your data or edit it or even prevent you from using it and all these mean violating the concepts of the CIA triad .
+
+Second topic : Password Attack methods :-
+
+When it comes to cracking passwords, there are alot of methods. These methods include trying every possible charcter combination till the password is cracked which is called brute-forcing or a brute-force attack. Other common type of attack is to use a list of common password phrases or words and try them to crack the password, this is called a dictionary attck. One of the funniest and simplest attacks is called the over-the-shoulder attack, where the attacker simply watches the user secretly from behind while inputting a password and obtains it directly. Some attackers also trick their victims into downloading a file that seems to be a useful file/program but under the hood , it also comes with a malicious app called a keylogger, this captures all the typed characters throught the victims keyboard and may eventually capture passwords and other types of sensitive data.
+
+Third topic : How password strength is measured :-
+
+Password strength is measured based on it's length and its contents. This is mainly because as the password length increases, time taken to crack it increases and also resources used to crack it increase so a 12-character password is suggested.  Also the contents play a great role because if it's something about you or common passphrases it still can be easily cracked even if it's 12 or more character long , Do you thing a passord like "password12345" is strong, No it's not, although it's more than 12-character long. So passwords should be hard to guess, easy to remember. it's also adiseable to use a secure password vault to store your passwords and a nice secure password generation tool - Just like mine in Part B.1 , it's awesome :) 
+

@@ -1,0 +1,5 @@
+Any generated password must:
+
+1.be at least 12-character long
+2.contain Uppercase and Lowercase letters
+3.contain at least one number and one special character or symbol (ex. @, $, #, etc. )
